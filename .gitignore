@@ -54,3 +54,4 @@ dkms.conf
 /Debug
 /.settings
 /*.project
+/*.cproject
